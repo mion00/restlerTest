@@ -12,3 +12,4 @@ tag.sh
 bin/*
 build/*
 build
+*~

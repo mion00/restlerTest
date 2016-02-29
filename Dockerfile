@@ -7,4 +7,4 @@ WORKDIR /usr/local/bin
 
 RUN curl -sS https://getcomposer.org/installer | php -- --filename=composer
 
-WORKDIR /var/www/html
+WORKDIR /var/www/html/restler

@@ -7,9 +7,9 @@ services:
     ports:
       - "80:80"
     volumes_from:
-      - fastcgi
+      - restler
 
-  fastcgi:
+  restler:
     build:
       context: .
     volumes: 
