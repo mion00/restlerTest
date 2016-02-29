@@ -1,0 +1,14 @@
+.foundation
+*.tgz
+*.phar
+*.lock
+*tmp
+scratch/*
+test/reports
+bin/behat
+vendor/
+.idea
+tag.sh
+bin/*
+build/*
+build
