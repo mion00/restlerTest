@@ -6,4 +6,8 @@ class user {
     $result->password = "test";
 		return $result;
 	}
+  function post() {
+    return "pippo";
+  }
 }
+?>
